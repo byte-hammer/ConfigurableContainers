@@ -4,7 +4,8 @@
 	"license": "None",
 	"version": "1.0.0",
 	"dependencies": [],
-	"autoUpdate": false,
+	"autoUpdate": true,
+	"checkUpdateUrl": "https://raw.githubusercontent.com/byte-hammer/ConfigurableContainers/main/updater.json",
 	"src": {
 		"src/containerconfig.js": "CacheModLoad"
 	}

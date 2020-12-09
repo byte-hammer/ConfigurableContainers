@@ -1,0 +1,10 @@
+{
+    "name": "ConfigurableContainers",
+    "author": "BitWave",
+    "version": "1.0.0",
+    "forceDowngrade": false,
+    "downloadUpdateUrl": "https://codeload.github.com/byte-hammer/ConfigurableContainers/zip/main",
+    "excludeFromUpdate": [ 
+        "settings.json" 
+    ]
+}
