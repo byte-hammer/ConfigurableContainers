@@ -1,0 +1,124 @@
+{
+    "Comment": "I wish I could add fucking comments to JSON files, but instead I have to add a useless field",
+    "RemoveSecureContainerRestrictions": false,
+    "NumStashRowsToAdd": 0,
+
+    "Pockets": {
+        "width": 1,
+        "height": 1
+    },
+
+    "Containers": {
+        "5857a8b324597729ab0a0e7d": {
+            "DESCRIPTION": "Secured Container Beta",
+            "width":  2,
+            "height": 3
+        },
+        "59db794186f77448bc595262": {
+            "DESCRIPTION": "Secured Container Epsilon",
+            "width":  4,
+            "height": 3
+        },
+        "5857a8bc2459772bad15db29": {
+            "DESCRIPTION": "Secured Container Gamma",
+            "width":  3,
+            "height": 3
+        },
+        "544a11ac4bdc2d470e8b456a": {
+            "DESCRIPTION": "Secured Container Alpha",
+            "width":  2,
+            "height": 2
+        },
+        "5c093ca986f7740a1867ab12": {
+            "DESCRIPTION": "Secured Container Kappa",
+            "width":  3,
+            "height": 4
+        },
+
+        "5783c43d2459774bbe137486": {
+            "DESCRIPTION": "Wallet",
+            "width":  1,
+            "height": 1
+        },
+        "59fafd4b86f7745ca07e1232": {
+            "DESCRIPTION": "Keytool",
+            "width":  4,
+            "height": 4
+        },
+        "5aafbcd986f7745e590fff23": {
+            "DESCRIPTION": "Meds Case",
+            "width":  7,
+            "height": 7
+        },
+        "59fb042886f7746c5005a7b2": {
+            "DESCRIPTION": "Item Case",
+            "width":  8,
+            "height": 8
+        },
+        "5c127c4486f7745625356c13": {
+            "DESCRIPTION": "MagBox",
+            "width":  7,
+            "height": 7
+        },
+        "590c60fc86f77412b13fddcf": {
+            "DESCRIPTION": "Docs Bag",
+            "width":  4,
+            "height": 4
+        },
+        "5e2af55f86f7746d4159f07c": {
+            "DESCRIPTION": "Grenade Box",
+            "width":  8,
+            "height": 8
+        },
+        "5c0a840b86f7742ffa4f2482": {
+            "DESCRIPTION": "THICC Items Case",
+            "width":  14,
+            "height": 14
+        },
+        "59fb016586f7746d0d4b423a": {
+            "DESCRIPTION": "Money Case",
+            "width":  7,
+            "height": 7
+        },
+        "5aafbde786f774389d0cbc0f": {
+            "DESCRIPTION": "Ammo Box",
+            "width":  7,
+            "height": 7
+        },
+        "5c093db286f7740a1b2617e3": {
+            "DESCRIPTION": "Holodonick Thermo Bag",
+            "width":  8,
+            "height": 8
+        },
+        "59fb023c86f7746d0d4b423c": {
+            "DESCRIPTION": "Weapon Case",
+            "width":  5,
+            "height": 10
+        },
+        "5b6d9ce188a4501afc1b2b25": {
+            "DESCRIPTION": "THICC Weapons Case",
+            "width":  6,
+            "height": 15
+        },
+        "5b7c710788a4506dec015957": {
+            "DESCRIPTION": "Lucky Scav Junk Box",
+            "width":  14,
+            "height": 14
+        },
+        "5c093e3486f77430cb02e593": {
+            "DESCRIPTION": "Dogtag Case",
+            "width":  10,
+            "height": 10
+        },
+        "5d235bb686f77443f4331278": {
+            "DESCRIPTION": "SICC Case",
+            "width":  5,
+            "height": 5
+        },
+        "567143bf4bdc2d1a0f8b4567": {
+            "DESCRIPTION": "Pistol Case",
+            "width":  3,
+            "height": 4
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+	"name": "ConfigurableContainers",
+	"author": "BitWave",
+	"license": "None",
+	"version": "1.0.0",
+	"dependencies": [],
+	"autoUpdate": false,
+	"src": {
+		"src/containerconfig.js": "CacheModLoad"
+	}
+}
